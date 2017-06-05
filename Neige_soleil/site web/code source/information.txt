@@ -1,0 +1,18 @@
+adresse site web 
+
+http://neige--et--soleil.fr/
+
+compte administrateur 
+
+login: admin
+pass: admin 
+
+compte proprietaire
+
+email: proprietaire1@gmail.com
+pass: proprietaire1
+
+compte locataire
+
+email: client1@gmail.com
+pass : client1
